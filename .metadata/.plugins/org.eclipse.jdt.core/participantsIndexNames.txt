@@ -3,5 +3,7 @@ C:\Users\junsu\OneDrive\πŸ≈¡ »≠∏È\scicom\demo\.metadata\.plugins\org.eclipse.jst
 \scicom\src\main\java
 C:\Users\junsu\OneDrive\πŸ≈¡ »≠∏È\scicom\demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3061211182.index
 \scicom\src\main\java
+C:\workspace\demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3061211182.index
+\scicom\src\main\java
 C:\Users\junsu\OneDrive\πŸ≈¡ »≠∏È\scicom\demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3416840083.index
 \scicom\src\main\java

@@ -1,0 +1,61 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>사이컴</title>
+<link rel="stylesheet" href="resources/css/main.css">
+</head>
+<body>
+ <header class="main-header">
+ 	<div class="logo-div">
+ 		<a href="#">
+	 		<img src="resources/images/SciCom.png">
+ 		</a>
+ 	</div>	
+	<div class="menu-div">
+		<ul class="menu-li">
+			<li><a href="#">물리</a></li>
+			<li><a href="#">화학</a></li>
+			<li><a href="#">천문</a></li>
+			<li><a href="#">생물</a></li>
+			<li><a href="#">수학</a></li>
+		</ul>
+	</div>
+	<div class="user-cont-div">
+		<ul class="user-li">
+			<li><a href="#">로그인</a></li>
+			<li><a href="#">회원가입</a></li>
+		</ul>
+	</div>
+ </header>
+ <div class="container">
+ 	<div class="left-banner">
+ 		<div class="banner banner1">
+ 			<img src="resources/images/banner1.png">
+ 		</div>
+ 	</div>
+ 	<div class="main-preview-cont">
+ 		<div>
+	 		<div class="phy"></div>
+	 		<div class="che"></div>
+ 		</div>
+ 		<div>
+	 		<div class="astro"></div>
+	 		<div class="bio"></div>
+ 		</div>
+ 		<div>
+ 		
+	 		<div class="math"></div>
+	 		<div class="freeboard"></div>
+ 		</div>
+ 	</div>
+ 	<div class="right-banner">
+ 		<div class="banner banner2">
+ 			<img src="resources/images/banner2.jpg">
+ 		</div>
+ 	</div>
+ </div>
+</body>
+</html>
