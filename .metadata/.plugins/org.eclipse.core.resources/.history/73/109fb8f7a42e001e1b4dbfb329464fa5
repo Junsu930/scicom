@@ -1,0 +1,10 @@
+
+spring.mvc.view.prefix=/WEB-INF/views/
+spring.mvc.view.suffix=.jsp
+
+
+spring.datasource.url=jdbc:oracle:thin:@localhost:xe
+spring.datasource.username=sc
+spring.datasource.password=sc1234
+spring.datasource.driver-class-name=oracle.jdbc.driver.OracleDriver
+

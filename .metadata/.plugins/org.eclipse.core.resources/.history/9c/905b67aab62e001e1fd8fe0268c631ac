@@ -1,0 +1,19 @@
+package scicom.index.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import ch.qos.logback.core.model.Model;
+import jakarta.servlet.http.HttpServletRequest;
+
+@Controller
+public class IndexController {
+	
+	@RequestMapping(value="/")
+	public String indexController(HttpServletRequest req, Model model){
+
+		String contextPath = req.getContextPath()
+		return "main";
+	}
+
+}

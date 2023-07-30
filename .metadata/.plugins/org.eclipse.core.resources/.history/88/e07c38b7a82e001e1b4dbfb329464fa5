@@ -1,0 +1,17 @@
+package scicom.index.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class IndexController {
+	
+	@RequestMapping(value="/index")
+	public String indexController(){
+		System.out.println("으아아아");
+		
+		return "index";
+	}
+
+}

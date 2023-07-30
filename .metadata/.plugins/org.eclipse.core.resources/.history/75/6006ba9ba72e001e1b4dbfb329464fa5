@@ -1,0 +1,14 @@
+package scicom.index.controller;
+
+import org.springframework.boot.SpringApplication;
+
+import com.example.demo.ScicomApplication;
+
+public class ScicomApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ScicomApplication.class, args);
+
+	}
+
+}

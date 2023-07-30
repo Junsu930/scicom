@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+}
+
+div{
+	box-sizing: border-box;
+	border: 1px solid black;
+}
+
+/* 메인 헤더 */
+.main-header{
+	width: 100%;
+	border-bottom: 1px solid rgb(232, 232, 230);
+	
+}

@@ -1,0 +1,12 @@
+package scicom;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ScicomApp {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ScicomApp.class, args);
+	}
+}

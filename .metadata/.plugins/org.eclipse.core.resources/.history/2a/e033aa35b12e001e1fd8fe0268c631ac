@@ -1,0 +1,10 @@
+package scicom.common.filter;
+
+import jakarta.servlet.Filter;
+import jakarta.servlet.annotation.WebFilter;
+
+@WebFilter(urlPatterns = "/*")
+public class MainFilter implements Filter {
+	
+	
+}
