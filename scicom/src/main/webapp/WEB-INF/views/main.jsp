@@ -10,7 +10,7 @@
 <body>
  <header class="main-header">
  	<div class="logo-div">
- 		<a href="#">
+ 		<a href="">
 	 		<img src="resources/images/SciCom.png">
  		</a>
  	</div>	
@@ -33,10 +33,12 @@
  <div class="container">
  	<div class="left-banner">
  		<div class="banner banner1">
- 			<img src="resources/images/banner1.png">
  		</div>
  	</div>
  	<div class="main-preview-cont">
+ 		<div class="mainTopBanner">
+ 			<img src="resources/images/f5634fd1072f8d3c7d241fd56895f9dc.jpg">
+ 		</div>
  		<div>
 	 		<div class="eachBoard phy">
 	 			<div>물리 게시판</div>
@@ -122,7 +124,6 @@
  	</div>
  	<div class="right-banner">
  		<div class="banner banner2">
- 			<img src="resources/images/banner2.jpg">
  		</div>
  	</div>
  </div>
